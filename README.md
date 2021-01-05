@@ -30,8 +30,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
-<img padding="0px" align="center" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img padding="0px" align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img align="center" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 [DuckoMan]: https://github.com/DuckoMan
 [VPlayer]: https://github.com/DuckoMan/VPlayer
