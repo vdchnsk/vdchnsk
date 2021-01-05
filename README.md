@@ -7,10 +7,10 @@
 - 📈 My 2021 Goals:to commit more on Github
 - 🔮 Hate summer, love pasta
 <br/>
----
 
 ### Languages and Tools I use:
  
+ ---
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="26px" src="./icons/5848152fcef1014c0b5e4967.png" />
@@ -31,7 +31,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
-<img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=radical"/>
 
 
 [VPlayer]: https://github.com/DuckoMan/VPlayer
