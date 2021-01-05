@@ -1,10 +1,10 @@
-### Hello there,I'm Valeriy Dichanskiy [DuckoMan]
+### Hello there, I'm Valeriy Dichanskiy [DuckoMan]
 
 ### I'm fullstack developer
 - 🔨 I'm working on a [VPlayer]
-- 🎓 I'm currently learning: React [Technology]
+- 🎓 I'm currently learning: [React]
 - 📜 I'd like to learn in future: Ts, Django
-- 📈 My 2021 Goals: commit more on Github
+- 📈 My 2021 Goals:to commit more on Github
 - 🔮 Hate summer, love pasta
 <br/>
 
@@ -27,4 +27,4 @@
 <br />
 
 [VPlayer]: https://github.com/DuckoMan/VPlayer
-[Technology]: https://reactjs.org/
+[React]: https://reactjs.org/
