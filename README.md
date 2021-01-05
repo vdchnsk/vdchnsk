@@ -7,6 +7,7 @@
 - 📈 My 2021 Goals:to commit more on Github
 - 🔮 Hate summer, love pasta
 <br/>
+---
 
 ### Languages and Tools I use:
  
