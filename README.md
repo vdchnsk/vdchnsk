@@ -26,5 +26,9 @@
 <br />
 <br />
 
+### ⏱ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [VPlayer]: https://github.com/DuckoMan/VPlayer
 [React]: https://reactjs.org/
