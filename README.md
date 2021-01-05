@@ -1,4 +1,4 @@
-## Hello there, I'm Valeriy Dichanskiy <DuckoMan/>
+## Hello there, I'm Valeriy Dichanskiy aka [DuckoMan]
 
 ### I'm fullstack developer
 - 🔨 I'm working on a [VPlayer]
@@ -32,6 +32,6 @@
 ---
 <img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyotown"/>
 
-
+[DuckoMan]: https://github.com/DuckoMan
 [VPlayer]: https://github.com/DuckoMan/VPlayer
 [React]: https://reactjs.org/
