@@ -30,7 +30,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
-<img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyotown"/>
 
 
 [VPlayer]: https://github.com/DuckoMan/VPlayer
