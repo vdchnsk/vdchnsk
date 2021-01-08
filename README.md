@@ -27,10 +27,8 @@
 <br />
 
 ---
-<!--<img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyonight" style="padding-right:3px;"/>
-<img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&theme=tokyonight&hide_border=true" style="padding:0px"/>-->
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DuckoMan&layout=compact&langs_count=8theme=tokyonight"/>
+<img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyonight" style="padding-right:3px;"/>
+<img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&theme=tokyonight&hide_border=true" style="padding:0px"/>
 
 [DuckoMan]: https://github.com/DuckoMan
 [VPlayer]: https://github.com/DuckoMan/VPlayer
