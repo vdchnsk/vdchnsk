@@ -4,7 +4,7 @@
 - 🔨 I'm working on a [Flappy Bird Game]
 - 🎓 I'm currently learning: [React]
 - 📜 I'd like to learn in future: Ts, Django
-- 📈 My 2021 Goals:to commit more on Github
+- 📈 My 2021 Goals: to commit more on Github
 - 🔮 Hate summer, love pasta
 <br/>
 
