@@ -5,7 +5,7 @@
 - 🎓 I'm currently learning: [React]
 - 📜 I'd like to learn in future: Ts, Django
 - 📈 My 2021 Goals: to commit more on Github
-- 🔮 Facts about me: Hate summer, love pasta
+- 🔮 Hate summer, love pasta
 <br/>
 
 ### Languages and Tools I use:
