@@ -1,7 +1,7 @@
 ## Hello there, I'm Valeriy Dichanskiy aka [DuckoMan]
 
 ### I'm fullstack developer
-- 🔨 I'm working on a [UltimateWebScraper]
+- 🔨 I'm working on the [UltimateWebScraper]
 - 🎓 I'm currently learning: [React]
 - 📜 I'd like to learn in future: Ts, Django
 - 📈 My 2021 Goals: to commit more on Github
