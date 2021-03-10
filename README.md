@@ -1,10 +1,10 @@
 ## Hello there, I'm Valeriy Dichanskiy aka [DuckoMan]
 
 ### I'm fullstack developer
-- 🔨 I'm working on a [VPlayer]
+- 🔨 I'm working on the [UltimateWebScraper]
 - 🎓 I'm currently learning: [React]
 - 📜 I'd like to learn in future: Ts, Django
-- 📈 My 2021 Goals:to commit more on Github
+- 📈 My 2021 Goals: to commit more on Github
 - 🔮 Hate summer, love pasta
 <br/>
 
@@ -32,5 +32,5 @@
 <img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&theme=tokyonight&hide_border=true" style="padding:0px"/>
 
 [DuckoMan]: https://github.com/DuckoMan
-[VPlayer]: https://github.com/DuckoMan/VPlayer
+[UltimateWebScraper]: https://github.com/DuckoMan/UltimateWebScraper
 [React]: https://reactjs.org/
