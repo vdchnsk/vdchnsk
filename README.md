@@ -2,7 +2,7 @@
 
 ### I'm fullstack developer
 - 🔨 I'm working on the [UltimateWebScraper]
-- 🎓 I'm currently learning: [React]
+- 🎓 I'm currently learning: [NodeJS]
 - 📜 I'd like to learn in future: Ts, NextJS
 - 📈 My 2021 Goals: to commit more on Github
 - 🔮 Hate summer, love pasta
@@ -33,4 +33,4 @@
 
 [DuckoMan]: https://github.com/DuckoMan
 [UltimateWebScraper]: https://github.com/DuckoMan/UltimateWebScraper
-[React]: https://reactjs.org/
+[NodeJS]: https://nodejs.org/docs/latest-v13.x/api/
