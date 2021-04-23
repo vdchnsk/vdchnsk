@@ -2,8 +2,8 @@
 
 ### I'm fullstack developer
 - 🔨 I'm working on the [UltimateWebScraper]
-- 🎓 I'm currently learning: [React]
-- 📜 I'd like to learn in future: Ts, Django
+- 🎓 I'm currently learning: [NextJS]
+- 📜 I'd like to learn in future: Ts
 - 📈 My 2021 Goals: to commit more on Github
 - 🔮 Hate summer, love pasta
 <br/>
@@ -34,4 +34,4 @@
 
 [DuckoMan]: https://github.com/DuckoMan
 [UltimateWebScraper]: https://github.com/DuckoMan/UltimateWebScraper
-[React]: https://reactjs.org/
+[NextJS]: https://nextjs.org/docs/migrating/from-create-react-app
