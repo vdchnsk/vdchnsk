@@ -1,7 +1,7 @@
 ## Hello there, I'm Valeriy Dichanskiy aka [DuckoMan]
 
 ### I'm fullstack developer
-- 🔨 I'm working on the [UltimateWebScraper]
+- 🔨 I'm working on the [Keyboard-blog]
 - 🎓 I'm currently learning: [NextJS]
 - 📜 I'd like to learn in future: Ts, GraphQL
 - 📈 My 2021 Goals: to commit more on Github
@@ -33,5 +33,5 @@
 <img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&theme=tokyonight&hide_border=true" style="padding:0px"/>
 
 [DuckoMan]: https://github.com/DuckoMan
-[UltimateWebScraper]: https://github.com/DuckoMan/UltimateWebScraper
+[Keyboard-blog]: https://github.com/DuckoMan/Keyboard-blog
 [NextJS]: https://nextjs.org/docs/migrating/from-create-react-app
