@@ -1,4 +1,4 @@
-## Hello there, I'm Valeriy Dichanskiy aka [DuckoMan]
+## Hello there, I'm Valeriy Dichanskiy
 
 ### I'm fullstack developer
 - 🔨 I'm working on the [Keyboard-blog] (private repo)
