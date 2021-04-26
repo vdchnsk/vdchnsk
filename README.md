@@ -1,7 +1,7 @@
 ## Hello there, I'm Valeriy Dichanskiy aka [DuckoMan]
 
 ### I'm fullstack developer
-- 🔨 I'm working on the [Keyboard-blog]
+- 🔨 I'm working on the [Keyboard-blog] (private repo)
 - 🎓 I'm currently learning: [NextJS]
 - 📜 I'd like to learn in future: Ts, GraphQL
 - 📈 My 2021 Goals: to commit more on Github
