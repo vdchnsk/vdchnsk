@@ -1,4 +1,4 @@
-## Hello there, I'm Valeriy Dichanskiy
+## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hello there, I'm Valeriy Dichanskiy
 
 ### I'm fullstack developer
 - 🔨 I'm working on the [Dev-blog]
