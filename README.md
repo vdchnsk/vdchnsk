@@ -2,8 +2,8 @@
 
 ### I'm fullstack developer
 - 🔨 I'm working on the [Dev-blog]
-- 🎓 I'm currently learning: [NextJS]
-- 📜 I'd like to learn in future: Ts, GraphQL, Socket.IO, webRTC
+- 🎓 I'm currently learning: [TypeScript]
+- 📜 I'd like to learn in future: GraphQL, Socket.IO, webRTC
 - 📈 My 2021 Goals: to commit more on Github
 - 🔮 Hate summer, love pasta
 <br/>
@@ -34,4 +34,4 @@
 
 [DuckoMan]: https://github.com/DuckoMan
 [Dev-blog]: https://github.com/DuckoMan/Keyboard-blog
-[NextJS]: https://nextjs.org/docs/migrating/from-create-react-app
+[TypeScript]: https://www.typescriptlang.org/docs/
