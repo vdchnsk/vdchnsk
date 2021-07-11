@@ -2,7 +2,7 @@
 
 ### I'm fullstack developer
 - 🔨 I'm working on the [Dev-blog]
-- 🎓 I'm currently learning: [TypeScript]
+- 🎓 I'm currently learning: [NestJS]
 - 📜 I'd like to learn in future: GraphQL, Socket.IO, webRTC
 - 📈 My 2021 Goals: to commit more on Github
 - 🔮 Hate summer, love pasta
@@ -35,4 +35,4 @@
 
 [DuckoMan]: https://github.com/DuckoMan
 [Dev-blog]: https://github.com/DuckoMan/Keyboard-blog
-[TypeScript]: https://www.typescriptlang.org/docs/
+[NestJS]: https://docs.nestjs.com/
