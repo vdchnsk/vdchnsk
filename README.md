@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hello there, I'm Valeriy Dichanskiy
 
 ### I'm fullstack developer
-- 🔨 I'm working on the [Dev-blog]
+- 🔨 I'm working on the [Financier] (private repo)
 - 🎓 I'm currently learning: [NestJS]
 - 📜 I'd like to learn in future: GraphQL, Socket.IO, webRTC
 - 📈 My 2021 Goals: to commit more on Github
@@ -35,5 +35,5 @@
 <img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&theme=tokyonight&hide_border=true" style="padding:0px"/>
 
 [DuckoMan]: https://github.com/DuckoMan
-[Dev-blog]: https://github.com/DuckoMan/Keyboard-blog
+[Financier]: https://github.com/DuckoMan/Financier
 [NestJS]: https://docs.nestjs.com/
