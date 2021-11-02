@@ -18,6 +18,8 @@
 <img align="left" alt="NodeJS" width="26px" src="./icons/nodejs.png" />
 <img align="left" alt="NextJS" width="26px" src="./icons//next-js_logo.png" />
 <img align="left" alt="Python" width="26px" src="./icons/5848152fcef1014c0b5e4967.png" />
+<img align="left" alt="Dart" width="26px" src="./icons/dart.png" />
+<img align="left" alt="Flutter" width="26px" src="./icons/flutter.png" />
 <img align="left" alt="PHP" width="26px" src="./icons/php-2038871-1720084.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
