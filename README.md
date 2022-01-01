@@ -3,7 +3,7 @@
 ### I'm fullstack developer
 - 🔨 I'm working on the [Financier] (private repo)
 - 🎓 I'm currently learning: [NestJS]
-- 📜 I'd like to learn in future: GraphQL, Socket.IO, webRTC
+- 📜 I'd like to learn in future: [GraphQL], [Socket.IO], [webRTC]
 - 📈 My 2022 Goals: to contribute more to open source
 - 🔮 Hate summer, love pasta
 <br/>
@@ -37,3 +37,6 @@
 [DuckoMan]: https://github.com/DuckoMan
 [Financier]: https://github.com/DuckoMan/Financier
 [NestJS]: https://docs.nestjs.com/
+[GraphQL]: https://graphql.org/
+[Socket.IO]: https://socket.io/
+[webRTC]: https://webrtc.org/
