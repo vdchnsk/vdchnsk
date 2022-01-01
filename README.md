@@ -4,7 +4,7 @@
 - 🔨 I'm working on the [Financier] (private repo)
 - 🎓 I'm currently learning: [NestJS]
 - 📜 I'd like to learn in future: GraphQL, Socket.IO, webRTC
-- 📈 My 2021 Goals: to commit more on Github
+- 📈 My 2022 Goals: to contribute more to open source
 - 🔮 Hate summer, love pasta
 <br/>
 
