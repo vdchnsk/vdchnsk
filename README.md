@@ -15,6 +15,7 @@
 <img align="left" alt="React" width="26px" src="./icons/reactlogo.png" />
 <img align="left" alt="Redux" width="26px" src="./icons/redux_logo.png" />
 <img align="left" alt="MobX" width="26px" src="./icons/mobx.png" />
+<img align="left" alt="Vite" width="26px" src="./icons/Vite-logo.png" />
 <img align="left" alt="NodeJS" width="26px" src="./icons/nodejs.png" />
 <img align="left" alt="NextJS" width="26px" src="./icons//next-js_logo.png" />
 <img align="left" alt="Python" width="26px" src="./icons/5848152fcef1014c0b5e4967.png" />
