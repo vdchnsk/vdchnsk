@@ -8,8 +8,10 @@
 -   📈 My 2022 Goals: to contribute more to open source
 -   🔮 Hate summer, love pasta <br/>
 
-<img src="./icons/katanaZero_char.gif" height="64" />
-<img align="left" src="./icons/ZeroTea.gif" height="64" />
+<p>
+    <img src="./icons/ZeroTea.gif" height="64" />
+    <img src="./icons/katanaZero_char.gif" height="64" />
+</p>
 
 ### Languages and Tools I use:
 
@@ -34,7 +36,9 @@
 <br />
 <br />
 
-<img src="./icons/devil.gif" height="64" />
+<p>
+    <img src="./icons/devil.gif" height="64" />
+</p>
 
 <img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyonight" style="padding-right:3px;"/>
 <img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&theme=tokyonight&hide_border=true" style="padding:0px"/>
