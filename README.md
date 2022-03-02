@@ -38,7 +38,7 @@
 <img align="left" alt="MongoDB" width="26px" src="./icons/mongodb.png" />
 <img align="left" alt="SQL" width="26px" src="./icons/sql.png" />
 <img align="left" alt="FireBase" width="26px" src="./icons/firebase.png" />
-
+<img align="left" alt="Docker" width="26px" src="./icons/docker_icon.png" />
 <br />
 <br />
 
