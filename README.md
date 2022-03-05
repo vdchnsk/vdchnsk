@@ -9,7 +9,7 @@
 ### I'm fullstack developer
 
 -   🔨 I'm working on the [Financier] (private repo)
--   🎓 I'm currently learning: [NestJS]
+-   🎓 I'm currently learning: [Godot]
 -   📜 I'd like to learn in future: [Rust], [GraphQL], [Socket.IO], [webRTC]
 -   📈 My 2022 Goals: to contribute more to open source
 -   🔮 Hate summer, love pasta <br/>
@@ -51,7 +51,7 @@
 
 [duckoman]: https://github.com/DuckoMan
 [financier]: https://github.com/DuckoMan/Financier
-[nestjs]: https://docs.nestjs.com/
+[Godot]: https://docs.godotengine.org/en/stable/
 [rust]: https://www.rust-lang.org/
 [graphql]: https://graphql.org/
 [socket.io]: https://socket.io/
