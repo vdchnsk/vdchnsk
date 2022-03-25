@@ -42,13 +42,14 @@
 <br />
 <br />
 
+---
 
 <img align="left" alt="DuckoMan's github stats" src="https://github-readme-stats.vercel.app/api?username=DuckoMan&show_icons=true&hide_border=true&theme=tokyonight" style="padding-right:3px;"/>
 <img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&theme=tokyonight&hide_border=true" style="padding:0px"/>
 
 [duckoman]: https://github.com/DuckoMan
 [financier]: https://github.com/DuckoMan/Financier
-[Godot]: https://docs.godotengine.org/en/stable/
+[godot]: https://docs.godotengine.org/en/stable/
 [rust]: https://www.rust-lang.org/
 [graphql]: https://graphql.org/
 [socket.io]: https://socket.io/
