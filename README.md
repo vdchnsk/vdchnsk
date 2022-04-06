@@ -1,11 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hello there, I'm Valerii Dychanskyi
 
-<p>
-    <img src="./icons/heart_icon.png" width="25px" style="padding: 3px; 3px 3px 0px">
-    <img src="./icons/heart_icon.png" width="25px" style="padding: 3px;">
-    <img src="./icons/heart_icon.png" width="25px" style="padding: 3px;">
-</p>
-
 ### I'm fullstack developer
 
 -   🔨 I'm working on the [Financier] (private repo)
