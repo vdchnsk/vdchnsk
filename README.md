@@ -2,7 +2,7 @@
 
 ### I'm fullstack developer
 
--   🔨 I'm working on the [Financier] (private repo)
+-   🔨 My corrent pet project is [notexp]
 -   🎓 I'm currently learning: [DotNet]
 -   📜 I'd like to learn in future: [Rust], [GraphQL], [Socket.IO], [webRTC]
 -   📈 My 2022 Goals: to contribute more to open source
@@ -42,7 +42,7 @@
 <!-- <img align="center" alt="DuckoMan's github languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckoMan&theme=tokyonight&hide_border=true" style="padding:0px"/> -->
 
 [duckoman]: https://github.com/DuckoMan
-[financier]: https://github.com/DuckoMan/Financier
+[notexp]: https://github.com/dchnsk/notexp
 [DotNet]: https://dotnet.microsoft.com/en-us/download
 [rust]: https://www.rust-lang.org/
 [graphql]: https://graphql.org/
