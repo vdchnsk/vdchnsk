@@ -3,8 +3,6 @@
 ### I'm fullstack developer
 
 -   🔨 My corrent pet project is [notexp]
--   🎓 I'm currently learning: [DotNet]
--   📜 I'd like to learn in future: [Rust], [GraphQL], [Socket.IO], [webRTC]
 -   📈 My 2023 Goals: to contribute more to open source
 -   🔮 Hate summer, love pasta <br/>
 
