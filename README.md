@@ -2,7 +2,6 @@
 
 ### I'm Software Engineer
 
--   🔨 My corrent pet project is [notexp]
 -   📈 My 2023 Goals: to contribute more to open source
 -   🔮 Hate summer, love pasta <br/>
 
