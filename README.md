@@ -1,8 +1,6 @@
 ## 👋 Hello there, I'm Valerii Dychanskyi
 
 ### I'm Software Engineer
-
--   📈 My 2023 Goals: to contribute more to open source
 -   🔮 Hate summer, love pasta <br/>
 
 <p>
