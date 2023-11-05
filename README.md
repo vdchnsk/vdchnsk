@@ -1,7 +1,7 @@
 ## 👋 Hello there, I'm Valerii Dychanskyi
 
 ### I'm Software Engineer
--   🔮 Hate summer, love pasta <br/>
+🔮 Hate summer, love pasta <br/>
 
 <p>
     <img src="./icons/ZeroTea.gif" height="64" />
