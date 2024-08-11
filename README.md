@@ -1,6 +1,6 @@
 ## 👋 Hello there, I'm Valerii Dychanskyi
 
-### I'm Software Engineer
+### I'm a Software Engineer
 
 <p>
     <img src="./icons/ZeroTea.gif" height="64" />
