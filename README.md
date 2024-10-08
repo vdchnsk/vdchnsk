@@ -1,7 +1,3 @@
-## 👋 Hello there, I'm Valerii Dychanskyi
-
-### I'm a Software Engineer
-
 <p>
     <img src="./icons/ZeroTea.gif" height="64" />
     <img src="./icons/gopher-dance.gif" height="64" />
